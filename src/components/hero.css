@@ -1,0 +1,31 @@
+.hero{
+    margin-top: 80px;
+}
+
+.hero__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero__left h3{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    color: #000000;
+    max-width: 470px;
+    margin-bottom: 16px;
+}
+
+.hero__left p {
+    font-family: sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #000000;
+        max-width: 470px;
+        margin-bottom: 16px;
+}
